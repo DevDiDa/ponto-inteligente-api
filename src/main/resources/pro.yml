@@ -1,0 +1,7 @@
+paginacao.qtde_por_pagina: 25
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/dbponto
+    username: root
+    password: root
